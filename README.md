@@ -1,8 +1,7 @@
-# Discord Advertenties NL
+# VTI Roeselare Discord Bot
 
-Dit is de custom bot van Discord Advertenties NL.
+Dit is een custom discord bot voor VTI Roeselare
 
 # Contributers 
 
-- Rijkaron
 - Marijn2341
