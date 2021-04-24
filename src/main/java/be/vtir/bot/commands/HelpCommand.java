@@ -16,6 +16,7 @@ public class HelpCommand extends Command {
                "Members || Zie hoeveel members er in de server zitten.\n" +
                "Uptime || Zie wat de uptime van de bot is.\n" +
                "8ball || Stel een vraag aan de bot.\n" +
-               "Avatar || Vergroot jou profielfoto of die van iemand anders.```").queue();
+               "Avatar || Vergroot jou profielfoto of die van iemand anders.\n" +
+               "Meme || Laat de bot een meme plaatsen.```").queue();
     }
 }

@@ -3,6 +3,7 @@ package be.vtir.bot.util.commands;
 import be.vtir.bot.commands.*;
 import be.vtir.bot.commands.fun.AskCommand;
 import be.vtir.bot.commands.fun.AvatarCommand;
+import be.vtir.bot.commands.fun.MemeCommand;
 import be.vtir.bot.commands.leerkracht.LivelesCommand;
 import be.vtir.bot.commands.owner.SetListeningCommand;
 import be.vtir.bot.commands.owner.SetPlayingCommand;
@@ -42,7 +43,8 @@ public class CommandHandler {
                 new RoosterCommand(),
                 new MessagePlaceCommand(),
                 new BotInfoCommand(),
-                new HelpCommand()
+                new HelpCommand(),
+                new MemeCommand()
         ));
     }
 
