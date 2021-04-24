@@ -1,7 +1,5 @@
 package be.vtir.bot.commands;
 
-import be.vtir.bot.util.Embed;
-import be.vtir.bot.util.Settings;
 import be.vtir.bot.util.commands.Command;
 import net.dv8tion.jda.api.entities.Message;
 
@@ -17,6 +15,7 @@ public class HelpCommand extends Command {
                "Uptime || Zie wat de uptime van de bot is.\n" +
                "8ball || Stel een vraag aan de bot.\n" +
                "Avatar || Vergroot jou profielfoto of die van iemand anders.\n" +
-               "Meme || Laat de bot een meme plaatsen.```").queue();
+               "Meme || Laat de bot een meme plaatsen.\n" +
+               "Userinfo || Krijg informatie te zien over een bepaalde gebruiker.```").queue();
     }
 }

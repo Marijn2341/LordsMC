@@ -44,7 +44,8 @@ public class CommandHandler {
                 new MessagePlaceCommand(),
                 new BotInfoCommand(),
                 new HelpCommand(),
-                new MemeCommand()
+                new MemeCommand(),
+                new UserInfoCommand()
         ));
     }
 
