@@ -29,6 +29,6 @@ public class Embed {
     }
 
     public static MessageEmbed error() {
-        return base().setDescription("Er ging iets fout").build();
+        return base().setDescription("Er is iets fout gelopen.").build();
     }
 }
