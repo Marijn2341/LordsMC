@@ -1,8 +1,6 @@
 package be.vtir.bot.util.commands;
 
-import be.vtir.bot.commands.fun.AskCommand;
-import be.vtir.bot.commands.fun.AvatarCommand;
-import be.vtir.bot.commands.fun.MemeCommand;
+import be.vtir.bot.commands.fun.*;
 import be.vtir.bot.commands.informatief.*;
 import be.vtir.bot.commands.owner.SetListeningCommand;
 import be.vtir.bot.commands.owner.SetPlayingCommand;
@@ -44,7 +42,9 @@ public class CommandHandler {
                 new BotInfoCommand(),
                 new HelpCommand(),
                 new MemeCommand(),
-                new UserInfoCommand()
+                new UserInfoCommand(),
+                new JokeCommand(),
+                new CoinFlipCommand()
         ));
     }
 
