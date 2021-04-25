@@ -1,4 +1,4 @@
-package be.vtir.bot.commands;
+package be.vtir.bot.commands.informatief;
 
 import be.vtir.bot.util.commands.Command;
 import net.dv8tion.jda.api.EmbedBuilder;

@@ -1,4 +1,4 @@
-package be.vtir.bot.commands;
+package be.vtir.bot.commands.informatief;
 
 import be.vtir.bot.util.Embed;
 import be.vtir.bot.util.Settings;

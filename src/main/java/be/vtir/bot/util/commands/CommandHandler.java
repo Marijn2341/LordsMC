@@ -1,10 +1,9 @@
 package be.vtir.bot.util.commands;
 
-import be.vtir.bot.commands.*;
 import be.vtir.bot.commands.fun.AskCommand;
 import be.vtir.bot.commands.fun.AvatarCommand;
 import be.vtir.bot.commands.fun.MemeCommand;
-import be.vtir.bot.commands.leerkracht.LivelesCommand;
+import be.vtir.bot.commands.informatief.*;
 import be.vtir.bot.commands.owner.SetListeningCommand;
 import be.vtir.bot.commands.owner.SetPlayingCommand;
 import be.vtir.bot.commands.owner.SetStatusCommand;
