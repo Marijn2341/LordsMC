@@ -1,4 +1,4 @@
-# VTI Roeselare Discord Bot
+# LordsMC Discord Bot
 
 Dit is een custom discord bot voor LordsMC
 
