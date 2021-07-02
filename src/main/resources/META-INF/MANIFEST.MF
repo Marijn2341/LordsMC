@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: be.vtir.bot.Main
+Main-Class: be.lordsmc.bot.Main
 

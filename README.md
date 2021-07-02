@@ -1,6 +1,6 @@
 # VTI Roeselare Discord Bot
 
-Dit is een custom discord bot voor VTI Roeselare
+Dit is een custom discord bot voor LordsMC
 
 # Contributers 
 
